@@ -14,6 +14,9 @@
   <img align="center" alt="muri-AE" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg">
    <img align="center" alt="muri-Illustrator" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg">
   <img align="center" alt="muri-Photoshop" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg">
+  <img align="center" alt="muri-Figma" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">
+  <img align="center" alt="muri-React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+  
 </div>
 
 ##
