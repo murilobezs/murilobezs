@@ -3,6 +3,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I'm+Murilo+Bezerra!;Here+you+can+find+my+projects+%3C3" alt="Typing SVG" /></a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/murilobezs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilobezs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriobezs&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
 ##
 #### Skills
 <div style="display: inline_block; justify-content: center; text-align: center; align-items: center"><br>
