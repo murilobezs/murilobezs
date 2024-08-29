@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilobezs)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilobezs&show_icons=true&theme=radical"/>
 </div>
 
 
