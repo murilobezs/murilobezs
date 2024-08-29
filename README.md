@@ -2,7 +2,7 @@
 <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I'm+Murilo+Bezerra!;Here+you+can+find+my+projects+%3C3" alt="Typing SVG" /></a>
 </div>
-
+##
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilobezs&show_icons=true&theme=transparent"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
